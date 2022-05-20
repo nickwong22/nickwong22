@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nickwong22
+- 👀 I’m interested in learning web development
+- 🌱 I’m currently learning full stack development
